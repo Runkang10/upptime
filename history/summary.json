@@ -22,7 +22,7 @@
     "url": "n2.eclipsesystems.top",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "unstable-smp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 143,
     "timeMonth": 143,
     "timeYear": 143,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-26": 0
+    }
   }
 ]
