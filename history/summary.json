@@ -22,19 +22,19 @@
     "url": "n2.eclipsesystems.top",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "unstable-smp",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 143,
-    "timeDay": 143,
-    "timeWeek": 143,
-    "timeMonth": 143,
-    "timeYear": 143,
+    "status": "up",
+    "uptime": "98.51%",
+    "uptimeDay": "98.51%",
+    "uptimeWeek": "98.51%",
+    "uptimeMonth": "98.51%",
+    "uptimeYear": "98.51%",
+    "time": 136,
+    "timeDay": 136,
+    "timeWeek": 136,
+    "timeMonth": 136,
+    "timeYear": 136,
     "dailyMinutesDown": {
-      "2026-01-26": 0
+      "2026-01-26": 20
     }
   }
 ]
