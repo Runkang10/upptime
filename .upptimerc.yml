@@ -6,8 +6,8 @@ sites:
   - name: Portfolio
     url: https://runkang10.vercel.app
   - name: Unstable SMP
-    url: n2.eclipsesystems.top
-    port: 25565
+    url: 77.90.15.57
+    port: 25512
     check: "tcp-ping"
 
 status-website:
