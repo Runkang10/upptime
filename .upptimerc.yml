@@ -6,8 +6,8 @@ sites:
   - name: Portfolio
     url: https://runkang10.vercel.app
   - name: Unstable SMP
-    url: 77.90.15.57
-    port: 25512
+    url: 191.96.231.10
+    port: 11048
     check: "tcp-ping"
 
 status-website:
